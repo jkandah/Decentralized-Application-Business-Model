@@ -25,6 +25,7 @@ The non-profit can make decisions fully decentralized allowing a “proof of sta
 Tokens are issued according to the white paper that coordinates the founders thoughts and incorporates community input.  
 
 There are several categories for which tokens may being issued:
+
 1.  Kickstarter (Crowdsale): An initial one-time sale of tokens is a common way to initially fund a DApp.  The money raised will be set aside into the foundation which will use that to develop the project.
 2.  Developer Pool: A portion of the tokens can be set aside for developers working on the project.  As the market sets a valuation for the project, the developer pool will gain it’s value and can attract contributors to the project.
 3.  Premine: It is best to avoid premining a token.  Communities dislike this methology.  If a premine is done it is recommended to have a meaningful reason.
