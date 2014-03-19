@@ -40,10 +40,17 @@ There is no underlying assets that can be represented by the tokens, there arenâ
 ### How do I start developing a DApp business plan?
 
 Developing a DApp has the following steps:
-Create a whitepaper: The paper can outline the intentions of the project, coin distribution plans, consensus mechanisms, plans for managing developer bounties and technical detail.
-Gain Community Engagement: Release the plan to the community and revising based on feedback.
-Kickstarter (Crowsale): Sell the initial tokens based on the plan in the whitepaper.  Setting a date where anyone can contribute to the project.  At this time establishing a non-profit would be suggested.
-Begin Executing Plan: The non-profit will plan development
+
+1.  Create a whitepaper: The paper can outline:
+  1.  Intentions of the project 
+  2.  Coin distribution plans 
+  3.  Consensus mechanisms 
+  4.  Non-profit management control plan 
+  5.  Plans for managing developer bounties
+  6.  Technical description of the project
+2.  Gain Community Engagement: Release the plan to the community and revising based on feedback.
+3.  Kickstarter (Crowsale): Sell the initial tokens based on the plan in the whitepaper.  Setting a date where anyone can contribute to the project.  At this time establishing a non-profit would be suggested.
+4.  Begin Executing Plan: The non-profit will plan development
 
 ### Frequently Asked Questions:
 
