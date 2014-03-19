@@ -10,6 +10,7 @@ Decentralized Application (DApp) Business Model
 ### What is the legal entity and what do they do?
 
 Token issuance is typically done by a non-profit which manages the development of the code.  This non-profit will never receive financial benefits from the software and may have the following responsibilities:
+
 1.  Issuance of initial tokens
 2.  Holding of developer tokens
 3.  Managing bounty payments 
